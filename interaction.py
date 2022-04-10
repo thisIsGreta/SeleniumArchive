@@ -1,8 +1,8 @@
 # Learnt to create interaction with webpage using Selenuim today.
 # The project is called cookie clicker.
 # Tips for myself: 
-  # 1) Run func every 5 seconds using threading module; 
-  # 2) End the loop after 5 minutes using time module; 
+  # 1) Run func every 5 seconds by using threading module; 
+  # 2) End the loop after 5 minutes by using time module; 
   # 3) threading should not be included inside the while loop.
 
 
