@@ -73,3 +73,5 @@ class InternetSpeedTwitterBot:
                            'div/div/div[2]/div/div/div/div/div[3]/div'))
         )
         post.click()
+
+        
